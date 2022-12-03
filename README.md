@@ -1,1 +1,1 @@
-# shpower.github.io
+# A bona fide Turing Test
